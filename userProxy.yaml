@@ -1,0 +1,15 @@
+payload:
+#自定义规则 格式请参考教程--------------
+  - DOMAIN-KEYWORD,glados
+  - DOMAIN-SUFFIX,ipwho.is
+  - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,proxy.888005.xyz
+  - DOMAIN-SUFFIX,pqjc.site
+#-------------------------------------
+  - DOMAIN-SUFFIX,googleapis.cn    #防止使用部分香港节点时play商店无法下载软件
+#classical形式的rule-provider支持路由规则的全部类型 (rule-set/sub-rule 除外)
+#可用规则格式如下：https://wiki.metacubex.one/config/rules/
+
+#DOMAIN：完全匹配指定的域名（例如：example.com）。
+#DOMAIN-KEYWORD：模糊匹配，匹配包含指定关键词的域名（例如：google 匹配所有包含 google 的域名）。
+#DOMAIN-SUFFIX：匹配以指定后缀结尾的域名（例如：.com 匹配所有 .com 结尾的域名）。
