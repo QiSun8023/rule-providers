@@ -1,4 +1,5 @@
 # 中国云服务商ip端
+payload:
 # 阿里
   - IP-CIDR,8.128.0.0/10,no-resolve
   - IP-CIDR,8.209.32.0/22,no-resolve
