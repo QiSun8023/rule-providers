@@ -7459,3 +7459,7 @@ payload:
   - IP-CIDR,223.255.0.0/17,no-resolve
   - IP-CIDR,223.255.236.0/22,no-resolve
   - IP-CIDR,223.255.252.0/23,no-resolve
+  # 穿越火线
+  - IP-CIDR,120.223.250.193,no-resolve
+  - IP-CIDR,111.30.170.220,no-resolve
+  - IP-CIDR,36.155.186.76,no-resolve
