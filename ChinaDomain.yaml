@@ -721,3 +721,6 @@ payload:
   - DOMAIN-SUFFIX,95516.com
 # 穿越火线
   - DOMAIN-SUFFIX,tqos.anticheatexpert.com
+  - DOMAIN-SUFFIX,tqos.gamesafe.qq.com
+  - DOMAIN-SUFFIX,qosidc.gcloudsdk.com
+  - DOMAIN-SUFFIX,cn.voice.gcloudcs.com
