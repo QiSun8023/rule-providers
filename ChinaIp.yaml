@@ -7462,4 +7462,4 @@ payload:
   # 穿越火线
   - IP-CIDR,120.223.250.193,no-resolve
   - IP-CIDR,111.30.170.220,no-resolve
-  - IP-CIDR,36.155.186.76,no-resolve
+  - IP-CIDR,36.155.186.0/24,no-resolve
