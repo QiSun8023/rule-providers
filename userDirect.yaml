@@ -17,6 +17,8 @@ payload:
 #  - DOMAIN-SUFFIX,www.hddolby.com
 #  - DOMAIN-SUFFIX,www.qingwapt.com
 #----------------------------------------
+  - DOMAIN-SUFFIX,msftconnecttest.com,DIRECT   #Windows 网络状态检测
+  - DOMAIN-SUFFIX,msftncsi.com,DIRECT   #Windows 网络状态检测
   - DOMAIN-SUFFIX,windowsupdate.com
          #win系统更新不走代理以免浪费流量
 #classical形式的rule-provider支持路由规则的全部类型 (rule-set/sub-rule 除外)
