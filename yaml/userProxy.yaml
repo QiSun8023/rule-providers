@@ -2,6 +2,7 @@ payload:
 #自定义规则 格式请参考教程--------------
   - DOMAIN-KEYWORD,glados
   - DOMAIN-SUFFIX,ipwho.is
+  - DOMAIN-SUFFIX,pterclub.com
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,proxy.888005.xyz
   - DOMAIN-SUFFIX,pqjc.site
