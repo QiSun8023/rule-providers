@@ -4,7 +4,7 @@ payload:
   - DOMAIN-SUFFIX,agsvpt.com
   - DOMAIN-SUFFIX,ptlgs.org
   - DOMAIN-SUFFIX,hhanclub.top
-  - DOMAIN-SUFFIX,pterclub.com
+#  - DOMAIN-SUFFIX,pterclub.com
   - DOMAIN-SUFFIX,audiences.me
   - DOMAIN-SUFFIX,hdhome.org
   - DOMAIN-SUFFIX,kp.m-team.cc
